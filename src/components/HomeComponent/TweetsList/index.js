@@ -11,6 +11,7 @@ export default function TweetsList() {
             replies: 50,
             retweets: 200,
             likes: 100,
+            view:5490,
         },
         {
             authorName: 'Sombody',
@@ -20,6 +21,7 @@ export default function TweetsList() {
             replies: 100,
             retweets: 20,
             likes: 1045,
+            view:23067,
         },
         {
             authorName: 'Tengrinews',
@@ -29,6 +31,7 @@ export default function TweetsList() {
             replies: 37,
             retweets: 86,
             likes: 5,
+            view:12407,
         },
         {
             authorName: 'Tengrinews',
@@ -38,6 +41,8 @@ export default function TweetsList() {
             replies: 37,
             retweets: 86,
             likes: 5,
+            view:9785,
+
         },
        
 
